@@ -1,0 +1,5 @@
+{
+  "name": "AI提示词大师",
+  "description": "专业级提示词优化工具，支持 Gemini 3、DeepSeek、豆包、ChatGPT 5、Claude 等主流大模型。提供历史记录管理、一键复制及多种优化策略。",
+  "requestFramePermissions": []
+}
